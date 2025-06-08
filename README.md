@@ -61,17 +61,13 @@
 />
 <br>
 ### 📊 Estatísticas
-<p>
-  
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaDosSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaDosSanntos&layout=compact)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaDosSantos&show_icons=true&theme=dark)
+
 
 
 
