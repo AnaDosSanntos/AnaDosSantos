@@ -8,9 +8,9 @@
 - 🤝 I’m looking for help with **Projects that make me develop**
 
 
+### 🤖 Linguagens e Tecnologias 
+<br>
 
-
-### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
@@ -60,11 +60,12 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br>
+
 ### 📊 Estatísticas
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaDosSanntos&layout=compact)
-
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaDosSantos&show_icons=true&theme=dark)
 
